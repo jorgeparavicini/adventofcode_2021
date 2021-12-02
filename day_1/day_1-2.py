@@ -1,4 +1,4 @@
-with open("input_day_1.txt") as file:
+with open("day_1-input.txt") as file:
     count = 0
     nr_of_days = 3
     window_size = nr_of_days + 1

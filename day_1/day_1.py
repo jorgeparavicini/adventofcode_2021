@@ -1,4 +1,4 @@
-with open("input_day_1.txt") as file:
+with open("day_1-input.txt") as file:
     count = 0
     last = 0
     for line in file:
